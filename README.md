@@ -3,3 +3,4 @@
 
 ## Update
 * MBR01 Setting up repo on sourcetree and git
+* MBR02 Removing PC view controls, Setting up camera and make character run endlessly (using event tick)
