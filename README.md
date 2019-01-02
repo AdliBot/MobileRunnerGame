@@ -4,3 +4,4 @@
 ## Update
 * MBR01 Setting up repo on sourcetree and git
 * MBR02 Removing PC view controls, Setting up camera and make character run endlessly (using event tick)
+* MBR03 Floor Tile Setup (Create Materials, Static Mesh and assign arrow component (Attach point))
