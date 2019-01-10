@@ -6,3 +6,4 @@
 * MBR02 Removing PC view controls, Setting up camera and make character run endlessly (using event tick)
 * MBR03 Floor Tile Setup (Create Materials, Static Mesh and assign arrow component (Attach point))
 * MBR04 Spawning Infinite Tiles and Destroying Previous Tiles
+* MBR05 Switching Lanes
